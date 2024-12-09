@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Henry Dare
+Sudent Email:  hddare@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This assignment was a straightforward and enjoyable introduction to web scraping using Chromium and Playwright. I appreciated learning how to interact with web pages programmatically and automate data collection. One of the most useful tools introduced was the ability to generate code for automating tasks in the browser. This feature will likely be valuable in future projects, including the final project.
+
+If I encountered any challenges during this assignment, it would be with using query selectors to identify and extract the necessary elements from the webpage. While Playwright simplifies the process, getting the correct selector still required attention to detail and careful inspection of the page's structure. Overall, this assignment was a great opportunity to practice automating data extraction and working with new tools.
